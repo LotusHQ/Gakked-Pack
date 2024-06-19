@@ -1,3 +1,4 @@
 
 *.jar
 instance.cfg
+/.minecraft/logs
