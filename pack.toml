@@ -1,0 +1,13 @@
+name = "Gakked Pack"
+author = "xNygmatic"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "48d59177dccfff24211e5482369eea0feab95b82423e2b0f264011553f9e41da"
+
+[versions]
+forge = "47.3.1"
+minecraft = "1.20.1"
