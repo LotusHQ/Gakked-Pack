@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/alexsmobs.toml"
+hash = "1be7218a59893ff4b66de988c6f8f4b850d82be93fd12140bd8f4d70e0af4e91"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "2db886e4da1e1bf831f6079755ba307e62c6967a9263a8aeeb8ff6d1ad209b3f"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "bfee68aa4fe03e5240ca57da075319f4aadb6a8099bc96965a3a9fd6bb816f29"
 metafile = true
