@@ -19,8 +19,13 @@ hash = "2c31b3651fd6df13a65721fe596a0e3dd63f15148301a953d0e8789dce882d64"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "eca74eb8bebd821fc4c0bf9688c9f067c1cc5be4581365727cf2a828eabf19f5"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
+hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
@@ -44,8 +49,18 @@ hash = "b9ef62d3c1641e8b7e9880152bb172056d49c58a1613e6c909e6a2f9d741a814"
 metafile = true
 
 [[files]]
+file = "mods/jaopca.pw.toml"
+hash = "fd66c9c4c756a2be1b8a54f2d8fbe69ddff18b786f1c627982af0d098f1d5558"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "fe0c032092af5482bd2255148c55ed5b9fabdfeccff4fe24f2faf488d04c5d15"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "07efd4cf1c3424849a3b79a7213a3655ebdada80fd901dba0cdcae11d1bbb6af"
 metafile = true
 
 [[files]]
@@ -59,13 +74,23 @@ hash = "97abd23496116a8b3fb4b832ae5a7ef7c84063909b16dcbf1a403963893f2ea3"
 metafile = true
 
 [[files]]
+file = "mods/prometheus.pw.toml"
+hash = "c374c34d38435b26949dd932d0e0da85253f5c9e6390471084f726dfa81e0495"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "692ed5c4b3794053fbfb08107a2b0b0f90eec49b005a13be6ca86321e80df7ba"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "2ebc9366a396634d88e2ca05600797edf48edd1005318256aa35e4ffc740e516"
+hash = "c554748f4958ae814eb09a8eb201fb19cd605cc91088d96385257bf6c883895d"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
 metafile = true
 
 [[files]]
